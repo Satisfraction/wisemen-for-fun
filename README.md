@@ -2,6 +2,10 @@
 
 Willkommen zu "wisemen-for-fun" - einem unterhaltsamen Projekt, das Ihnen humorvolle Antworten auf Ihre Fragen bietet!
 
+## Preview
+
+![Preview](preview.png)
+
 ## Hinweis
 
 Dieses Programm ist rein zu Unterhaltungszwecken gedacht und sollte nicht ernsthaft verwendet werden. Die Antworten sind nicht dazu bestimmt, ernsthafte Fragen zu beantworten oder als verlässliche Informationen betrachtet zu werden.
